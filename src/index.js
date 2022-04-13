@@ -9,6 +9,5 @@ ramen(json)
     
 const formData = document.querySelector(`form`)
 function appendFormInfo(){
-
 }
 console.log (formData);
