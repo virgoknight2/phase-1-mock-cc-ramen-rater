@@ -1,9 +1,9 @@
-let json = new Request(`http://localhost:3000/ramens`)
+let json = new Request(`db.json`)
 fetch(json)
  .then(response => respoonse.json())
- .then(ramen= () =>{
-      let ramenDietails=JSON.image
- return  document.getItemById(`ramen-menue`).append(ramenDietails)
+ .then(ramen= () =>{    
+     document.createElement 
+ return document.getItemById(`ramen-menu`).append(ramenDietails)
  })
 ramen(json)
     
